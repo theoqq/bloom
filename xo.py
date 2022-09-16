@@ -68,7 +68,7 @@ def check(A):
 
 fl=1
 while True:
-    if M+N == 8:
+    if M+N == 9:
         print ('ничья')
         break
     elif fl == 1:
